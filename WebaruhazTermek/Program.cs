@@ -1,5 +1,4 @@
 ﻿using WebaruhazTermek;
-
 Termek termek1 = new Termek { Nev = "Laptop", Egysegar = 250000, Keszlet = 10 };
 Termek termek2 = new Termek { Nev = "Gep", Egysegar = -500, Keszlet = -5 };
 
